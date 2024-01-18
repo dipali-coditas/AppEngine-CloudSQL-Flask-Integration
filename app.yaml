@@ -1,0 +1,8 @@
+runtime: python39
+# add your cloud sql information here
+env_variables:
+  CLOUD_SQL_USERNAME: dipali  
+  CLOUD_SQL_PASSWORD: dipali
+  CLOUD_SQL_DATABASE_NAME: nano
+  CLOUD_SQL_DATABASE_PORT: 3306
+  CLOUD_SQL_CONNECTION_NAME: 34.100.238.110           # Change IP here with your cloud sql instance Ip
