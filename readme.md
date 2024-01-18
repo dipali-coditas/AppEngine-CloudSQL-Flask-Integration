@@ -1,10 +1,10 @@
-Project App Deployment Guide Docs - App Engine 
+# Project App Deployment Guide Docs - App Engine 
 
-Overview
+## Overview
 
 This repository contains project-specific modifications to the main file sourced from the Google Cloud Platform Python Docs Samples repository. These changes are tailored for deploying an App Engine application in the context of our project. The following section outlines the commands utilized in the project deployment.
 
-Deployment Commands 
+##  Deployment Commands 
 
 1. Establishing a Connection to the Cloud SQL Instance:
 
@@ -48,7 +48,7 @@ gcloud app deploy
 
 - Use URI and access your application
 
-Purpose
+# Purpose
 
 These modifications are made to streamline the deployment process for our project. 
 
