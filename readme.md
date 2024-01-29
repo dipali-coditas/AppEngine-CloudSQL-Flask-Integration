@@ -12,7 +12,7 @@ gcloud sql connect [instance_name] --user=username
 
 2. Selecting the Project Database:
 
-use [database_name]
+use [database_name];
 
 3. Creating a 'demo_tbl' Table in the Project Database:
 
